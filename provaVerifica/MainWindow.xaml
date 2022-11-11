@@ -11,6 +11,7 @@
         <Button x:Name="btnCiao" Content="Button" HorizontalAlignment="Left" Margin="266,87,0,0" VerticalAlignment="Top" Click="btnCiao_Click"/>
         <TextBox x:Name="txtCiao" HorizontalAlignment="Left" Margin="400,97,0,0" TextWrapping="Wrap" Text="Inserisci qua" VerticalAlignment="Top" Width="120"/>
         <Calendar HorizontalAlignment="Left" Margin="17,0,0,0" VerticalAlignment="Center"/>
+        <Canvas Margin="214,133,186,84" Cursor=""/>
 
     </Grid>
 </Window>
