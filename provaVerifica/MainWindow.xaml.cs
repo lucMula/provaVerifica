@@ -29,5 +29,10 @@ namespace provaVerifica
         {
             MessageBox.Show("Hello world");
         }
+
+        private void btnCiao_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Ciao mondo");
+        }
     }
 }
